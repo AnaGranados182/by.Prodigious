@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Muli-Bold",
+              "name": "Gotham-Bold",
               "size": 20
             }
           },
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 25,
+    "height": 20,
     "width": 107,
     "x": 1055,
-    "y": 45
+    "y": 49
   },
-  "glyphBounds": "{{9, 5}, {89, 16}}",
+  "glyphBounds": "{{6, 1}, {94, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -127,7 +127,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Muli-Bold",
+            "name": "Gotham-Bold",
             "size": 20
           }
         },
