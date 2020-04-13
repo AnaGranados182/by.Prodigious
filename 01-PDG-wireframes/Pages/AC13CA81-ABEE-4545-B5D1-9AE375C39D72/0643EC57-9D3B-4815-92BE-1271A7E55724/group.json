@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -59,6 +59,10 @@
     {
       "class": "shapePath",
       "id": "4D4E688B-840B-4C24-8A1B-89FADAFFF98E"
+    },
+    {
+      "class": "shapePath",
+      "id": "CC2EAB50-0C13-428E-A485-0E017B5E476E"
     }
   ],
   "name": "Menu",

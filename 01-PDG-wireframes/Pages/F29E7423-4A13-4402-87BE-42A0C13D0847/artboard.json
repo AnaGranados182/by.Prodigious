@@ -37,7 +37,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -53,7 +53,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -66,10 +66,6 @@
     {
       "class": "group",
       "id": "C81078B8-03DB-42B1-B47F-63B32690CAA7"
-    },
-    {
-      "class": "group",
-      "id": "B8579137-B314-48C7-ABF9-D8EFE7111F59"
     },
     {
       "class": "group",
@@ -134,6 +130,34 @@
     {
       "class": "shapePath",
       "id": "81D72325-F7CA-4029-9662-EF9DF99BE2AF"
+    },
+    {
+      "class": "text",
+      "id": "C675896F-174C-42F2-BD2B-B7717F328F92"
+    },
+    {
+      "class": "text",
+      "id": "9434421D-4F71-4081-9A3A-E2EC4A1E80F5"
+    },
+    {
+      "class": "text",
+      "id": "ED19677C-9CE0-4F4A-A489-DDB906C459A1"
+    },
+    {
+      "class": "shapePath",
+      "id": "95743BC9-17F7-4F3E-9A18-99BE347BC6C1"
+    },
+    {
+      "class": "shapePath",
+      "id": "FDBAE1E6-1BE9-4B62-ADAF-D7DAEC27A0C0"
+    },
+    {
+      "class": "shapePath",
+      "id": "AB8C0BF9-DC28-40A2-BA48-BDF2E5093849"
+    },
+    {
+      "class": "group",
+      "id": "AB67A12A-2AC5-4844-96DA-FBC1C13DEB14"
     }
   ],
   "layout": {
